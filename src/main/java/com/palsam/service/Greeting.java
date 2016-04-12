@@ -1,4 +1,4 @@
-package com.gap.kumar.service;
+package com.palsam.service;
 
 
 public class Greeting {
